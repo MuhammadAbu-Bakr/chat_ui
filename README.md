@@ -25,6 +25,12 @@ This project simulates a chat interface where messages appear from both a user a
 
 ---
 
+### 📸 Screenshots
+
+/assets/screenshot.png
+
+---
+
 ## 🛠️ Skills Demonstrated
 
 - Building UI with `Row`, `Column`, `Expanded`, `Flexible`
@@ -46,15 +52,10 @@ This project simulates a chat interface where messages appear from both a user a
 ### Run Locally
 
 ```bash
-git clone https://github.com/your-username/simple-chat-ui-flutter.git
-cd simple-chat-ui-flutter
+git clone https:https://github.com/MuhammadAbu-Bakr/chat_ui
+cd chat_ui
 flutter pub get
 flutter run
 
 ---
 
-### 📸 Screenshots
-
-/assets/screenshot.png
-
----
