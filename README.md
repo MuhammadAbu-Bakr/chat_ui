@@ -25,9 +25,9 @@ This project simulates a chat interface where messages appear from both a user a
 
 ---
 
-### 📸 Screenshots
+## 📸 Screenshots
 
-/assets/screenshot.png
+![Chat UI Screenshot](assets/screenshots.png)
 
 ---
 
